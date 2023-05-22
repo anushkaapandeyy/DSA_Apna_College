@@ -5,3 +5,6 @@ I solved all these on my own in C++.
 
 Questions completed till now -
 Q1-Q8 of Strings
+Q1-Q9 of bit manipulation
+Q1-Q4 LinkedList
+
